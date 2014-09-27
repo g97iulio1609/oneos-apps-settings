@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Onboard Settings
+GenericName=Onboard onscreen keyboard settings
+Comment=Change Onboard settings
+Icon=onboard
+Exec=onboard-settings
+NoDisplay=true
+Categories=Accessibility;Settings;
+MimeType=application/x-onboardsettings;
+StartupNotify=false
+Terminal=false

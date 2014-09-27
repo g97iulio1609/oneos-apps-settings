@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Onboard
+GenericName=Onboard onscreen keyboard
+Comment=Flexible onscreen keyboard for GNOME
+Icon=onboard
+Exec=onboard
+NoDisplay=true
+Categories=Accessibility;Utility;Utility-Accessibility;
+MimeType=application/x-onboard;
+StartupNotify=false
+Terminal=false
+OnlyShowIn=Old;

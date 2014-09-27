@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=System Log
+Comment=View or monitor system log files
+Icon=logview
+Exec=gnome-system-log-pkexec
+NoDisplay=true
+NotShowIn=KDE;
+Categories=GNOME;GTK;Monitor;System;System-Tools;
+Keywords=logs;debug;error;
+StartupNotify=false
+Terminal=false
+OnlyShowIn=Old;

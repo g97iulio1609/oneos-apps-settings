@@ -1,0 +1,23 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=LibreOffice Draw
+GenericName=Drawing Program
+Comment=Create and edit drawings, flow charts, and logos by using Draw.
+Icon=libreoffice-draw
+Exec=libreoffice --draw %U
+NoDisplay=true
+Categories=2DGraphics;FlowChart;Graphics;Office;VectorGraphics;X-MandrivaLinux-Office-Drawing;X-Red-Hat-Base;
+Keywords=Vector;Schema;Diagram;Layout;OpenDocument Graphics;Microsoft Publisher;Corel Draw;cdr;odg;svg;
+MimeType=application/vnd.oasis.opendocument.graphics;application/vnd.oasis.opendocument.graphics-flat-xml;application/vnd.oasis.opendocument.graphics-template;application/vnd.sun.xml.draw;application/vnd.sun.xml.draw.template;application/vnd.visio;application/x-wpg;application/vnd.corel-draw;application/vnd.ms-publisher;image/x-freehand;
+StartupWMClass=libreoffice-draw
+StartupNotify=true
+Terminal=false
+
+Actions=NewDocument;
+
+[Desktop Action NewDocument]
+Name=New Drawing
+Exec=libreoffice --draw
+OnlyShowIn=Unity
+OnlyShowIn=Old;

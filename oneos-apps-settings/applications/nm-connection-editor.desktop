@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Network Connections
+Comment=Manage and change your network connection settings
+Icon=preferences-system-network
+Exec=nm-connection-editor
+NoDisplay=true
+NotShowIn=KDE;
+Categories=GNOME;GTK;Settings;X-GNOME-NetworkSettings;X-GNOME-Sundry;
+StartupNotify=true
+Terminal=false
+OnlyShowIn=Old;

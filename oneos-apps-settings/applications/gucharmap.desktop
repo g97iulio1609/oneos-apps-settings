@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Character Map
+Comment=Insert special characters into documents
+Icon=accessories-character-map
+Exec=gucharmap
+NoDisplay=true
+Categories=GNOME;GTK;Utility;
+Keywords=font;unicode;
+StartupNotify=true
+Terminal=false
+OnlyShowIn=Old;

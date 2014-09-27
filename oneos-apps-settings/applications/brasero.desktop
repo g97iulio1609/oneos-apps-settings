@@ -1,0 +1,95 @@
+[Desktop Entry]
+Name=Burn
+GenericName=Disc Burner and Copier
+Comment=Create and copy CDs and DVDs
+Keywords=disc;cdrom;dvd;burn;audio;video;
+Keywords[ar]=قرص;اسطوانة;صوت;فديو;نسخ;حرق;
+Keywords[as]=ডিস্ক;cdrom;dvd;বাৰ্ণ;অডিঅ';ভিডিঅ';
+Keywords[be]=дыск;cdrom;dvd;запіс;аўдыя;гук;відэа;
+Keywords[bg]=диск;видео;сиди;дивиди;видео;аудио;музика;disc;cdrom;dvd;burn;audio;video;
+Keywords[ca]=disc;cdrom;dvd;enregistra;àudio;vídeo;
+Keywords[ca@valencia]=disc;cdrom;dvd;enregistra;àudio;vídeo;
+Keywords[cs]=disk;cdrom;cd-rom;dvd;pálit;vypálit;audio;zvukové;video;
+Keywords[da]=disk;cd-rom;cd;dvd;brænd;brænde;lyd;video;
+Keywords[de]=Disc;Medium;CD-ROM;DVD;Brennen;Audio;Video;
+Keywords[el]=δίσκος;cdrom;dvd;κάψιμο;ήχος;βίντεο;
+Keywords[es]=disco;cdrom;dvd;grabar;sonido;vídeo;
+Keywords[et]=disk;plaat;cdrom;dvd;kirjutamine;kõrvetamine;audio;heliplaat;videoplaat;
+Keywords[eu]=disc;cdrom;dvd;burn;audio;video;
+Keywords[fi]=disc;cdrom;dvd;burn;audio;video;levy;cd;polta;kirjoita;ääni;
+Keywords[fr]=disque;cdrom;dvd;graver;audio;video;
+Keywords[ga]=diosca;cdrom;dvd;dóigh;fuaim;fís;
+Keywords[gl]=disco;cdrom;dvd;gravar;son;vídeo;
+Keywords[gu]=ડિસ્ક;cdrom;dvd;લખો;ઓડિયો;વિડિયો;
+Keywords[he]=תקליטור;דיסק;CD;צריבה;DVD;אודיו;שמע;וידאו;
+Keywords[hi]=disc;cdrom;dvd;burn;audio;video;
+Keywords[hu]=lemez;cdrom;dvd;írás;hang;videó;
+Keywords[id]=cakram;cdrom;dvd;bakar;audio;video;
+Keywords[it]=disc;cdrom;dvd;burn;audio;video;masterizzare;masterizzatore;
+Keywords[ja]=disc;cdrom;dvd;burn;audio;video;ディスク;音楽;オーディオ;音声;楽曲;映像;ビデオ;動画;movie;ムービー;iso;イメージ;
+Keywords[kn]=ಡಿಸ್ಕ್;cdrom;dvd;ಬರೆ;ಆಡಿಯೊ;ವೀಡಿಯೊ;;
+Keywords[ko]=disc;디스크;cdrom;씨디;dvd;burn;굽기;audio;오디오;음악;video;비디오;영상;영화;
+Keywords[lt]=diskas;cdrom;dvd;įrašyti;graso;vaizdo;
+Keywords[lv]=disks;cdrom;dvd;ierakstīt;iededzināt;audio;video;
+Keywords[ml]=ഡിസ്ക്;സീഡിറോം;ഡീവീഡി;പകർത്തുക;ശബ്ദം;ചലച്ചിത്രം;
+Keywords[mr]=डिस्क;सिडिरॉम;डिव्हिडि;बर्ण;ऑडिओ;व्हिडिओ;
+Keywords[nb]=disc;cdrom;dvd;brenn;lyd;video;
+Keywords[or]=disc;cdrom;dvd;burn;audio;video;
+Keywords[pa]=ਡਿਸਕ;ਸੀਡੀ;ਡੀਵੀਡੀ;ਲਿਖੋ;ਬਰਨ;ਆਡੀਓ;ਵਿਡੀਓ;disc;cdrom;dvd;burn;audio;video;
+Keywords[pl]=płyta;disc;cdrom;dvd;nagrywanie;wypalanie;dźwięk;audio;wideo;obraz;video;
+Keywords[pt]=disco;cdrom;dvd;gravar;áudio;vídeo;
+Keywords[pt_BR]=disco;cd-rom;dvd;gravar;gravação;áudio;vídeo;
+Keywords[ro]=disc;cdrom;dvd;burn;audio;video;
+Keywords[ru]=диск;cdrom;dvd;запись;аудио;видео;
+Keywords[sk]=disc;disk;cdrom;dvd;audio;video;napaľovanie;napáliť;
+Keywords[sl]=disk;cdrom;dvd;blueray;nosilec;avdio;zvok;video;posnetki;odtisi;
+Keywords[sr]=диск;цд-ром;двд;нарежи;аудио;звук;видео;снимак;
+Keywords[sr@latin]=disk;cd-rom;dvd;nareži;audio;zvuk;video;snimak;
+Keywords[ta]=வட்டு;சிடிரோம்;டிவிடி;எழுது;ஒலி;விடியோ;
+Keywords[te]=disc;cdrom;dvd;burn;audio;video;
+Keywords[tr]=disk;cdrom;dvd;yazma;ses;görüntü;video;
+Keywords[ug]=disc;cdrom;dvd;burn;audio;video;دىسكا;يېزىش;ئويۇش;ئۈن;سىن;
+Keywords[uk]=диск;cdrom;dvd;запис;аудіо;відео;
+Keywords[vi]=disc;đĩa;dia;cdrom;cd;dvd;burn;ghi;audio;nhạc;nhac;video;phim
+Keywords[zh_HK]=disc;cdrom;dvd;burn;audio;video;光碟;燒錄;音樂;影片;
+Keywords[zh_TW]=disc;cdrom;dvd;burn;audio;video;光碟;燒錄;音樂;影片;
+Categories=GTK;GNOME;AudioVideo;Audio;Video;DiscBurning;
+MimeType=application/x-cd-image;application/x-cdrdao-toc;application/x-cue;application/x-toc;audio/x-scpls;audio/x-ms-asx;audio/x-mp3-playlist;audio/x-mpegurl;application/x-brasero;x-content/audio-cdda;x-content/video-dvd;x-content/video-vcd;x-content/video-svcd;x-content/image-picturecd;
+Exec=brasero %U
+Icon=brasero
+StartupNotify=true
+Terminal=false
+Type=Application
+X-GNOME-FullName=Brasero Disc Burner
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=brasero
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=3.11.3
+X-GNOME-UsesNotifications=true
+Actions=Window;Image;Disc;Audio;Video;
+X-Ubuntu-Gettext-Domain=brasero
+
+[Desktop Action Window]
+Name=Open a New Window
+Exec=brasero --no-existing-session
+OnlyShowIn=Unity;
+
+[Desktop Action Image]
+Name=Burn an Image File
+Exec=brasero --image
+OnlyShowIn=Unity;
+
+[Desktop Action Disc]
+Name=Copy a Disc
+Exec=brasero --copy
+OnlyShowIn=Unity;
+
+[Desktop Action Audio]
+Name=Create an Audio Project
+Exec=brasero --audio
+OnlyShowIn=Unity;
+
+[Desktop Action Video]
+Name=Create a Video Project
+Exec=brasero --video
+OnlyShowIn=Unity;

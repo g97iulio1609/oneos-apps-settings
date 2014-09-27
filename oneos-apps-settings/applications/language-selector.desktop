@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Language Support
+Comment=Configure multiple and native language support on your system
+Icon=preferences-desktop-locale
+Exec=/usr/bin/gnome-language-selector
+NoDisplay=true
+NotShowIn=KDE;
+Categories=DesktopSettings;GNOME;GTK;Settings;X-GNOME-PersonalSettings;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;
+Keywords=Language;Input method;Region;Format;
+StartupNotify=false
+Terminal=false
+OnlyShowIn=Old;

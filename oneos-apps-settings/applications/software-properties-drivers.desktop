@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Additional Drivers
+Comment=Configure third-party and proprietary drivers
+Icon=jockey
+Exec=/usr/bin/software-properties-gtk --open-tab=4
+NoDisplay=true
+Categories=GTK;HardwareSettings;Settings;X-XFCE;
+Keywords=Drivers;
+StartupNotify=false
+Terminal=false
+OnlyShowIn=Old;

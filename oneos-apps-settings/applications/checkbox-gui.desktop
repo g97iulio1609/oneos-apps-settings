@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=System Testing
+Comment=Test your systems compatibility with Ubuntu.
+Icon=checkbox
+Exec=checkbox-gui
+NoDisplay=true
+Categories=Application;Qt;System;System-Tools;
+Keywords=testing;drivers;hardware;
+StartupNotify=false
+Terminal=false
+OnlyShowIn=Old;

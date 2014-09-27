@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Input Method
+Comment=Set Keyboard Input Method
+Icon=input-keyboard
+Exec=im-config
+NoDisplay=true
+Categories=Settings;
+Keywords=keyboard;input
+StartupNotify=false
+Terminal=false
